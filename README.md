@@ -1,6 +1,6 @@
 # gerador-de-frases
 
-Fora ultilizados nesse projeto de JavaScript:
+Foram ultilizados nesse projeto de JavaScript:
 
 ○ let - usado para criar uma variavel local, no escopo de um bloco atual.
 
